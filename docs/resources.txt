@@ -1,0 +1,5 @@
+Adventures in Machine Learning
+# https://www.eidosmontreal.com/news/adventures-in-machine-learning-with-real-time-rendering/
+
+Neural Ambient Occlusion
+# https://theorangeduck.com/page/neural-network-ambient-occlusion
