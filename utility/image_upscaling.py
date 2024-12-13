@@ -1,0 +1,1 @@
+# Traditional approach for comparison with upscale GAN mode and ESGAN later on.
