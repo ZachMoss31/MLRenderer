@@ -1,8 +1,10 @@
 # To run and install dependencies, use pip as listed below
 # pip install -r requirements.txt
 
-#PyOpenGL
-#PyOpenGL_accelerate
-#pygame
-#numpy
-#cupy
+PyOpenGL~=3.1.9
+torch~=2.6.0+cu126
+opencv-python~=4.11.0.86
+numpy~=2.0.2
+matplotlib~=3.10.0
+pillow~=11.0.0
+torchvision~=0.21.0+cu126
